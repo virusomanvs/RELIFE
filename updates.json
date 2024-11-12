@@ -1,8 +1,8 @@
 {
-    "date": "12 ноября 2024 г.",
-    "title": "Почему вайп?",
-    "date_en": "12 november 2024 г.",
-    "title_en": "Why server wiped?",
+    "date": "9 ноября 2024 г.",
+    "title": "Обновление [Фиксы хуиксы]",
+    "date_en": "9 november 2024 г.",
+    "title_en": "Update [Fucked fixes]",
     "hints_en": [
         "Hint|Don't die!",
         "Hint|You don't have to read these hints, they are useless, as is your attempt to survive.",
@@ -336,10 +336,20 @@
         "Rule|Запрещено любое нанесение физического вреда другим игроками. Будьте аккуратны с новыми друзьями!"
     ],
     "update_text": [
-        "- Так как членососы из srvgame.ru стерли полностью мне хост со всеми данными, сервер переехал на новый хост и полностью вайпнулся. Если удастся откопать где-то архив, то я его верну, а пока что все с чистого листа."
+        "- Исправлен баг с возможностью разжечь факел мгновенно с помощью ручного розжига.",
+        "- Исправлен баг с размещением некоторых предметов в пластиковую бочку.",
+        "- Исправлена невозможность дубления шкуры лисы. Также изменен вес очищенных шкур и приближен к их неочищенной версии.",
+        "- Изменена вместимость некоторых кожанных вещей.",
+        "- Исправлен баг при приготовлении супов из консерв.",
+        "- Исправлен звук при вскапывании грядок с помощью саперной лопаты и лопаты которая раскладывается."
     ],
     "update_text_en": [
-        "- Since the cocksuckers from srvgame.ru completely erased my host with all the data, the server moved to a new host and completely wiped. If I manage to dig up the archive somewhere, I'll return it, but for now everything is a clean slate."
+        "- Fixed a bug with the ability to instantly light a torch using manual ignition.",
+        "- Fixed a bug with placing some items in a plastic barrel.",
+        "- Fixed the inability to tan fox skins. Also changed the weight of peeled skins and brought them closer to their uncleaned version.",
+        "- Changed the capacity of some leather items.",
+        "- Fixed a bug when making soups from canned food.",
+        "- Fixed the sound when digging beds with a sapper shovel and a shovel that unfolds."
     ]
 }
 
