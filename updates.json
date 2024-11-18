@@ -1,8 +1,8 @@
 {
-    "date": "9 ноября 2024 г.",
-    "title": "Обновление [Фиксы хуиксы]",
-    "date_en": "9 november 2024 г.",
-    "title_en": "Update [Fucked fixes]",
+    "date": "18 ноября 2024 г.",
+    "title": "Обновление [Очередная хуйня]",
+    "date_en": "18 november 2024 г.",
+    "title_en": "Update [Another piece of crap]",
     "hints_en": [
         "Hint|Don't die!",
         "Hint|You don't have to read these hints, they are useless, as is your attempt to survive.",
@@ -336,20 +336,24 @@
         "Rule|Запрещено любое нанесение физического вреда другим игроками. Будьте аккуратны с новыми друзьями!"
     ],
     "update_text": [
-        "- Исправлен баг с возможностью разжечь факел мгновенно с помощью ручного розжига.",
-        "- Исправлен баг с размещением некоторых предметов в пластиковую бочку.",
-        "- Исправлена невозможность дубления шкуры лисы. Также изменен вес очищенных шкур и приближен к их неочищенной версии.",
-        "- Изменена вместимость некоторых кожанных вещей.",
-        "- Исправлен баг при приготовлении супов из консерв.",
-        "- Исправлен звук при вскапывании грядок с помощью саперной лопаты и лопаты которая раскладывается."
+        "- Со строительным рюкзаком теперь можно бегать если в слотах дров и бревен ничего не лежит.",
+        "- Снижена максимальная температура у куриной грудки.",
+        "- Исправлен баг с маслом в пластиковых канистрах.",
+        "- Поправил положение куриной грудки, лягушки, банки из под заводского масла на печках.",
+        "- Исправлен баг с воспроизведением звуков готовки на печках.",
+        "- Вилами можно поковыряться в куче сена или в стогах сена и найти там жуков или червей. В куче сена шанс что-либо найти больше чем в маленьких стогах.",
+        "- Увеличена калорийность всех супов и приготовляемых блюд в кастрюлях на 15-20%.",
+        "- Добавлено два новых бесполезных перка в садовода."
     ],
     "update_text_en": [
-        "- Fixed a bug with the ability to instantly light a torch using manual ignition.",
-        "- Fixed a bug with placing some items in a plastic barrel.",
-        "- Fixed the inability to tan fox skins. Also changed the weight of peeled skins and brought them closer to their uncleaned version.",
-        "- Changed the capacity of some leather items.",
-        "- Fixed a bug when making soups from canned food.",
-        "- Fixed the sound when digging beds with a sapper shovel and a shovel that unfolds."
+        "- You can now run with a construction backpack if there is nothing in the slots for firewood and logs.",
+        "- The maximum temperature of the chicken breast has been reduced.",
+        "- A bug with oil in plastic canisters has been fixed.",
+        "- Corrected the position of the chicken breast, frog, and can of factory oil on the stoves.",
+        "- A bug with the playback of sounds of cooking on the stoves has been fixed.",
+        "- You can dig around in a pile of hay or in haystacks with a pitchfork and find beetles or worms there. There is a greater chance of finding something in a pile of hay than in small stacks.",
+        "- The calorie content of all soups and cooked dishes in pot has been increased by 15-20%.",
+        "- Added two new useless perks to the gardener."
     ]
 }
 
