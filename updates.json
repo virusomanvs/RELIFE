@@ -340,7 +340,7 @@
         "- Изменено ебнутое остывание костра когда он потух. Скажем спасибо БАГемии за то что они это сделали.",
         "- Переделано действие набора из пластиковых канистр как просто взаимодействие, а не сливание из объекта. ",
         "- С помощью острого предмета из кабельной катушки можно сделать проволоку.",
-        "- Крафт каменного ножа с помощью камней из окружающей среды (текстурные камни) был убран. Теперь при крафте вы будете получать каменное лезвие как при крафте маленького камня о камень."
+        "- Крафт каменного ножа с помощью камней из окружающей среды (текстурные камни) был убран. Теперь при крафте вы будете получать каменное лезвие как при крафте маленького камня о камень. (По факту крафт мелкого камня о камень теперь бесполезен, но я это поправлю к след. обнове и сделаю какое-нибудь отличие, чтобы был смысл тратить 2 камня вместо одного)."
 
     ],
     "update_text_en": [
@@ -348,7 +348,7 @@
         "- The fucked up cooling of the fire when it goes out has been changed. Thanks to BAGemia for doing this.",
         "- The action of the set of plastic canisters has been reworked as simple interaction, and not draining from the object. ",
         "- Using a sharp object from a cable spool, you can make wire.",
-        "- Crafting a stone knife using stones from the environment (texture stones) has been removed. Now when crafting, you will receive a stone blade as when crafting a small stone on a stone."
+        "- Crafting a stone knife using stones from the environment (texture stones) has been removed. Now when crafting, you will receive a stone blade as when crafting a small stone on a stone. (In fact, crafting small stones with stones is now useless, but I will fix this in the next update and make some difference so that it makes sense to spend 2 stones instead of one)."
     ]
 }
 
