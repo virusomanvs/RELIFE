@@ -336,19 +336,24 @@
         "Rule|Запрещено любое нанесение физического вреда другим игроками. Будьте аккуратны с новыми друзьями!"
     ],
     "update_text": [
-        "- Возвращена возможность ложиться спать с игрушкой в руках. Скажем спасибо БАГемии за то что они это убрали.",
-        "- Изменено ебнутое остывание костра когда он потух. Скажем спасибо БАГемии за то что они это сделали.",
-        "- Переделано действие набора из пластиковых канистр как просто взаимодействие, а не сливание из объекта. ",
-        "- С помощью острого предмета из кабельной катушки можно сделать проволоку.",
-        "- Крафт каменного ножа с помощью камней из окружающей среды (текстурные камни) был убран. Теперь при крафте вы будете получать каменное лезвие как при крафте маленького камня о камень. (По факту крафт мелкого камня о камень теперь бесполезен, но я это поправлю к след. обнове и сделаю какое-нибудь отличие, чтобы был смысл тратить 2 камня вместо одного)."
-
+        "- Блистеры от таблеток теперь запоминают какие таблетки вы в нее засовываете. Из-за этого возвращено действие положить таблетку когда блистер на земле и убрано просто перемещение таблетки на блистер. Когда вы достаете таблетку, достается последняя засунутая вами в блистер таблетка.",
+        "- Исправлен баг с максимальной температурой некоторых предметов.",
+        "- Тушу лисы больше нельзя взять в руки.",
+        "- Добавлен слот для боковых сумок на персонажа. Боковые сумки можно повесить теперь только туда, и комбинировать их с обычным рюкзаком.",
+        "- У боковых сумок убраны слоты под рацию.",
+        "- Тряпки пропитанные маргонцовкой теперь стакаются до 4.",
+        "- Прикормка теперь помимо увелечения шанса на поимку рыбы вместо предмета, также увеличивает общий шанс на поимку чего либо.",
+        "- Что-то там исправил, что-то там сломал."
     ],
     "update_text_en": [
-        "- The ability to go to bed with a toy in your hands has been restored. Thanks to BAGemia for removing this.",
-        "- The fucked up cooling of the fire when it goes out has been changed. Thanks to BAGemia for doing this.",
-        "- The action of the set of plastic canisters has been reworked as simple interaction, and not draining from the object. ",
-        "- Using a sharp object from a cable spool, you can make wire.",
-        "- Crafting a stone knife using stones from the environment (texture stones) has been removed. Now when crafting, you will receive a stone blade as when crafting a small stone on a stone. (In fact, crafting small stones with stones is now useless, but I will fix this in the next update and make some difference so that it makes sense to spend 2 stones instead of one)."
+        "- Pill blisters now remember which pills you put in them. Because of this, the action of putting a pill when the blister is on the ground has been returned and simply moving the pill to the blister has been removed. When you take out a pill, the last pill you put in the blister is taken out.",
+        "- Fixed a bug with the maximum temperature of some items.",
+        "- You can no longer pick up a fox carcass.",
+        "- Added a slot for side bags on the character. Side bags can now only be hung there, and combined with a regular backpack.",
+        "- Side bags have had their radio slots removed.",
+        "- Rags soaked in potassium permanganate now stack up to 4.",
+        "- Bait now, in addition to increasing the chance of catching fish instead of an item, also increases the overall chance of catching something.",
+        "- Fixed something there, broke something there."
     ]
 }
 
