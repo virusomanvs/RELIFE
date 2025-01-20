@@ -336,24 +336,14 @@
         "Rule|Запрещено любое нанесение физического вреда другим игроками. Будьте аккуратны с новыми друзьями!"
     ],
     "update_text": [
-        "- Блистер от таблеток теперь запоминает какие таблетки вы в него засовываете. Из-за этого возвращено действие положить таблетку когда блистер на земле и убрано просто перемещение таблетки на блистер. Когда вы достаете таблетку, достается последняя засунутая вами в блистер таблетка.",
-        "- Исправлен баг с максимальной температурой некоторых предметов.",
-        "- Тушу лисы больше нельзя взять в руки.",
-        "- Добавлен слот для боковых сумок на персонажа. Боковые сумки можно повесить теперь только туда, и комбинировать их с обычным рюкзаком.",
-        "- У боковых сумок убраны слоты под рацию.",
-        "- Тряпки пропитанные марганцовкой теперь стакаются до 4.",
-        "- Прикормка теперь помимо увеличения шанса на поимку рыбы вместо предмета, также увеличивает общий шанс на поимку чего либо.",
-        "- Что-то там исправил, что-то там сломал."
+        "- Добавлены спиртовые салфетки. Можно помыть руки, а также протереть гнилое яблоко (ну ладно, съедобное тоже можно).",
+        "- Все заводские бинты теперь не вызовут заражение раны, даже если они не дезинфицированы.",
+        "- Много мелких фиксов и исправление ошибок, ну и естественно добавление новых."
     ],
     "update_text_en": [
-        "- Pill blisters now remember which pills you put in them. Because of this, the action of putting a pill when the blister is on the ground has been returned and simply moving the pill to the blister has been removed. When you take out a pill, the last pill you put in the blister is taken out.",
-        "- Fixed a bug with the maximum temperature of some items.",
-        "- You can no longer pick up a fox carcass.",
-        "- Added a slot for side bags on the character. Side bags can now only be hung there, and combined with a regular backpack.",
-        "- Side bags have had their radio slots removed.",
-        "- Rags soaked in potassium permanganate now stack up to 4.",
-        "- Bait now, in addition to increasing the chance of catching fish instead of an item, also increases the overall chance of catching something.",
-        "- Fixed something there, broke something there."
+        "- Added alcohol wipes. You can wash your hands, and also wipe a rotten apple (okay, you can use an edible one too).",
+        "- All factory bandages will no longer cause wound infection, even if they are not disinfected.",
+        "- Many small fixes and bug fixes, and of course, adding new ones."
     ]
 }
 
