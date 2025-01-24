@@ -336,14 +336,22 @@
         "Rule|Запрещено любое нанесение физического вреда другим игроками. Будьте аккуратны с новыми друзьями!"
     ],
     "update_text": [
-        "- Добавлены спиртовые салфетки. Можно помыть руки, а также протереть гнилое яблоко (ну ладно, съедобное тоже можно).",
-        "- Все заводские бинты теперь не вызовут заражение раны, даже если они не дезинфицированы.",
-        "- Много мелких фиксов и исправление ошибок, ну и естественно добавление новых."
+        "- Салфетки стакаются теперь до 5 штук.",
+"- Тестеры крови теперь стакаются до 3 штук.",
+"- При чистке картофеля от кожуры, теперь он будет чистым после чистки.",
+"- Хлорными таблетками теперь можно очистить максимум 2.5 литра воды. Емкость может быть любая, важно лишь количество воды.",
+"- Исправлен баг с невозможностью налить куриный бульон во все емкости.",
+"- Перепрыгивание через заборы или подтягивание с низким уровнем еды или воды, теперь недоступно если у вас меньше половины стамины. То есть, вы сможете перепрыгивать и рвать очко сколько угодно голодными, пока у вас есть необходимое количество стамины (это компромис для ситуаций когда перс застрял среди кучи заборов)",
+"- Жидкость в кастрюлях и банках, в руках, теперь будет проливаться когда вы бежите, перепрыгиваете через забор или кувыркаетесь."
     ],
     "update_text_en": [
-        "- Added alcohol wipes. You can wash your hands, and also wipe a rotten apple (okay, you can use an edible one too).",
-        "- All factory bandages will no longer cause wound infection, even if they are not disinfected.",
-        "- Many small fixes and bug fixes, and of course, adding new ones."
+        "- Napkins now stack up to 5 pieces.",
+"- Blood testers now stack up to 3 pieces.",
+"- When peeling potatoes, they will now be clean after peeling.",
+"- Chlorine tablets can now clean a maximum of 2.5 liters of water. The container can be any, only the amount of water is important.",
+"- Fixed a bug with the inability to pour chicken broth into all containers.",
+"- Jumping over fences or pulling up with a low level of food or water is now unavailable if you have less than half of your stamina. That is, you can jump and tear as much as you want hungry, as long as you have the required amount of stamina (this is a compromise for situations when the character is stuck among a bunch of fences)",
+"- Liquid in pots and jars, in your hands, will now spill when you run, jump over a fence or tumble."
     ]
 }
 
