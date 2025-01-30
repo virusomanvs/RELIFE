@@ -1,8 +1,8 @@
 {
-    "date": "24 января 2025 г.",
-    "title": "Обновление [Послабление]",
-    "date_en": "24 january 2025 y.",
-    "title_en": "Update [Relaxation]",
+    "date": "30 января 2025 г.",
+    "title": "Обновление [Нам не страшно подорваться]",
+    "date_en": "30 january 2025 y.",
+    "title_en": "Update [We are not afraid to blow ourselves up]",
     "hints_en": [
         "Hint|Don't die!",
         "Hint|You don't have to read these hints, they are useless, as is your attempt to survive.",
@@ -336,22 +336,14 @@
         "Rule|Запрещено любое нанесение физического вреда другим игроками. Будьте аккуратны с новыми друзьями!"
     ],
     "update_text": [
-        "- Салфетки стакаются теперь до 5 штук.",
-"- Тестеры крови теперь стакаются до 3 штук.",
-"- При чистке картофеля от кожуры, теперь он будет чистым после чистки.",
-"- Хлорными таблетками теперь можно очистить максимум 2.5 литра воды. Емкость может быть любая, важно лишь количество воды.",
-"- Исправлен баг с невозможностью налить куриный бульон во все емкости.",
-"- Перепрыгивание через заборы или подтягивание с низким уровнем еды или воды, теперь недоступно если у вас меньше половины стамины. То есть, вы сможете перепрыгивать и рвать очко сколько угодно голодными, пока у вас есть необходимое количество стамины (это компромис для ситуаций когда перс застрял среди кучи заборов)",
-"- Жидкость в кастрюлях и банках, в руках, теперь будет проливаться когда вы бежите, перепрыгиваете через забор или кувыркаетесь."
+        "- Добавлен инструмент для разминирования мин. Разминирование всегда успешно. После разминирования вы получите кусок пластичной взрывчатки, собрал фулл стак вы сможете сделать из нее полноценный кусок.",
+        "- Исправлено отображение полосы крови. Теперь минимум на полосе, это реальный ваш минимум, а не диапазон от 3000 до 5000 мл. крови. При активированном перке [Крепкий орешек] диапазон отображается от 2000 до 5000. Так что туперь вы можете точнее контролировать время того когда вы откинитесь.",
+        "- Исправлена работа фильтрующей бутылки, которая была добавлена в 1.26. Работает также как и на ваниле."
     ],
     "update_text_en": [
-        "- Napkins now stack up to 5 pieces.",
-"- Blood testers now stack up to 3 pieces.",
-"- When peeling potatoes, they will now be clean after peeling.",
-"- Chlorine tablets can now clean a maximum of 2.5 liters of water. The container can be any, only the amount of water is important.",
-"- Fixed a bug with the inability to pour chicken broth into all containers.",
-"- Jumping over fences or pulling up with a low level of food or water is now unavailable if you have less than half of your stamina. That is, you can jump and tear as much as you want hungry, as long as you have the required amount of stamina (this is a compromise for situations when the character is stuck among a bunch of fences)",
-"- Liquid in pots and jars, in your hands, will now spill when you run, jump over a fence or tumble."
+        "- Added a tool for defusing mines. Defusing is always successful. After defusing, you will receive a piece of plastic explosive, having collected a full stack, you will be able to make a full piece out of it.",
+        "- Fixed the display of the blood strip. Now the minimum on the strip is your real minimum, and not the range from 3000 to 5000 ml of blood. When the perk [Die Hard] is activated, the range is displayed from 2000 to 5000. So now you can more accurately control the time when you will fall off.",
+        "- Fixed the operation of the filter bottle, which was added in 1.26. Works the same as in vanilla."
     ]
 }
 
