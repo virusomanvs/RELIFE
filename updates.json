@@ -1,18 +1,16 @@
 {
-    "date": "11 февраля 2025 г.",
-    "title": "Обновление [Нам не страшно подорваться]",
-    "date_en": "11 february 2025 y.",
+    "date": "23 февраля 2025 г.",
+    "title": "Обновление [Новые места]",
+    "date_en": "23 february 2025 y.",
     "update_text": [
-        "- Полная масленка теперь восстанавливает 50% здоровья. Пока для любого вида оружия одинаково, чуть позже сделаю чем больше оружие, тем больше требуется.",
-        "- Исправлен баг с очищением банки с помощью тряпки. Кто его использовал, я бы задумался, так как вы теперь на карандаше ;)",
-        "- Все виды шалашей можно улучшить с помощью 33% скотча, от чего они перестанут портится. Опустошите шалаш перед выполнением действия.",
-        "- Жидкость из белых пластиковых канистр, наливается теперь без шланга. "
+        "- У всех видов копей снижено здоровье.",
+        "- Зона спавна которая на озере, перенесена выше по дороге метров на 100. На скрине отметил, чтобы не потерялись. Пока оставил старую, мало ли кто вышел там, позже удалю, но там нет костра и всего барахла.",
+        "- Мелкие фиксы."
     ],
     "update_text_en": [
-        "- A full oil can now restores 50% of health. For now it's the same for any type of weapon, a little later I'll make it the bigger the weapon, the more is required.",
-        "- Fixed a bug with cleaning a can with a rag. Whoever used it, I would think about it, since you are now on the pencil ;)",
-        "- All types of huts can be improved with 33% scotch tape, from which they will stop deteriorating. Empty the hut before performing the action.",
-        "- Liquid from white plastic canisters, now poured without a hose. "
+        "- All types of spears have reduced health.",
+        "- The spawn zone on the lake has been moved up the road by 100 meters. I marked it on the screenshot so that you don't get lost. For now I left the old one, you never know who came out there, I'll delete it later, but there is no fire and all the junk there.",
+        "- Minor fixes."
     ],
     "title_en": "Update [We are not afraid to blow ourselves up]",
     "hints_en": [
