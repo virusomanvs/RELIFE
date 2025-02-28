@@ -1,16 +1,18 @@
 {
-    "date": "23 февраля 2025 г.",
-    "title": "Обновление [Новые места]",
-    "date_en": "23 february 2025 y.",
+    "date": "28 февраля 2025 г.",
+    "title": "Обновление [Типичная БАГемия]",
+    "date_en": "28 february 2025 y.",
     "update_text": [
-        "- У всех видов копей снижено здоровье.",
-        "- Зона спавна которая на озере, перенесена выше по дороге метров на 100. На скрине отметил, чтобы не потерялись. Пока оставил старую, мало ли кто вышел там, позже удалю, но там нет костра и всего барахла.",
-        "- Мелкие фиксы."
+        "- Теперь когда вы находите документы со схронами, при их прочтении схрон будет спавнится около места где их нашли, а не где прочитали документы.",
+"- Исправлено открытие дверей ключами.",
+"- Исправлены эффекты при употреблении блюд которые готовятся.",
+"- Исправлено отображение аттачментов в инвентаре на персонаже. Спасибо БАГемии за то что все сломали к хуям. Ебанаты добавили чтобы слоты персонажа оставались на месте при прокрутке и установили фиксированный размер, но блять забыли что у них есть мод сообщество, которое эти слоты расширяет."
     ],
     "update_text_en": [
-        "- All types of spears have reduced health.",
-        "- The spawn zone on the lake has been moved up the road by 100 meters. I marked it on the screenshot so that you don't get lost. For now I left the old one, you never know who came out there, I'll delete it later, but there is no fire and all the junk there.",
-        "- Minor fixes."
+        "- Now when you find documents with caches, when you read them, the cache will spawn near the place where they were found, and not where the documents were read.",
+"- Fixed opening doors with keys.",
+"- Fixed effects when eating dishes that are being prepared.",
+"- Fixed display of attachments in the inventory on the character. Thanks to BAGemia for breaking everything to hell. The idiots added so that the character's slots remain in place when scrolling and set a fixed size, but forgot that they have a mod community that expands these slots."
     ],
     "title_en": "Update [We are not afraid to blow ourselves up]",
     "hints_en": [
