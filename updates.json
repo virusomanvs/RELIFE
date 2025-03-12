@@ -1,18 +1,20 @@
 {
-    "date": "28 февраля 2025 г.",
-    "title": "Обновление [Типичная БАГемия]",
-    "date_en": "28 february 2025 y.",
+    "date": "12 марта 2025 г.",
+    "title": "Обновление [Типа как в SIMS?]",
+    "date_en": "12 march 2025 y.",
     "update_text": [
-        "- Теперь когда вы находите документы со схронами, при их прочтении схрон будет спавнится около места где их нашли, а не где прочитали документы.",
-"- Исправлено открытие дверей ключами.",
-"- Исправлены эффекты при употреблении блюд которые готовятся.",
-"- Исправлено отображение аттачментов в инвентаре на персонаже. Спасибо БАГемии за то что все сломали к хуям. Ебанаты добавили чтобы слоты персонажа оставались на месте при прокрутке и установили фиксированный размер, но блять забыли что у них есть мод сообщество, которое эти слоты расширяет."
+        "- Исправлен баг с незакопанной пластиковой бочкой, когда при открытии взаимодействовать с ней было больше нельзя.",
+"- Добавлена новая система крафта ящиков и предметов. Для крафта возьмите нужный инструмент для ящика (молоток, ножовка по металлу, набор для шитья) и выберите необходимый предмет для размещения. ",
+"Некоторые объекты можно разместить изначально, для некоторых нужно найти чертеж. Чертеж потратится в момент размещения, а при разборке вернется обратно. Разместить объекты можно только на базе. Предметы для размещения будут пополняться.",
+"- Изменена вместимость у всех видов шалашей. 50, 100, 150.",
+"- У предметов которыми можно размещать объекты убрано действие [Осмотреть] когда они в руках, чтобы не крутить лишний раз."
     ],
     "update_text_en": [
-        "- Now when you find documents with caches, when you read them, the cache will spawn near the place where they were found, and not where the documents were read.",
-"- Fixed opening doors with keys.",
-"- Fixed effects when eating dishes that are being prepared.",
-"- Fixed display of attachments in the inventory on the character. Thanks to BAGemia for breaking everything to hell. The idiots added so that the character's slots remain in place when scrolling and set a fixed size, but forgot that they have a mod community that expands these slots."
+        "- Fixed a bug with an unburied plastic barrel, when it was no longer possible to interact with it when opened.",
+"- Added a new system for crafting boxes. To craft, take the necessary tool for the box (hammer, hacksaw, sewing kit) and select the necessary item for placement. ",
+"Some objects can be placed initially, for some you need to find a blueprint. The blueprint will be spent at the time of placement, and will be returned when disassembled. Objects can only be placed at the base. Items for placement will be replenished.",
+"- Changed the capacity of all types of huts. 50, 100, 150.",
+"- Removed the [Inspect] action from items that can be used to place objects when they are in your hands, so as not to twist them unnecessarily."
     ],
     "title_en": "Update [We are not afraid to blow ourselves up]",
     "hints_en": [
