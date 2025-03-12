@@ -11,7 +11,7 @@
     ],
     "update_text_en": [
         "- Fixed a bug with an unburied plastic barrel, when it was no longer possible to interact with it when opened.",
-"- Added a new system for crafting boxes. To craft, take the necessary tool for the box (hammer, hacksaw, sewing kit) and select the necessary item for placement. ",
+"- Added a new system for crafting boxes and items. To craft, take the necessary tool for the box (hammer, hacksaw, sewing kit) and select the necessary item for placement. ",
 "Some objects can be placed initially, for some you need to find a blueprint. The blueprint will be spent at the time of placement, and will be returned when disassembled. Objects can only be placed at the base. Items for placement will be replenished.",
 "- Changed the capacity of all types of huts. 50, 100, 150.",
 "- Removed the [Inspect] action from items that can be used to place objects when they are in your hands, so as not to twist them unnecessarily."
