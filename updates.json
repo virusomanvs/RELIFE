@@ -4,7 +4,7 @@
     "date_en": "12 march 2025 y.",
     "update_text": [
         "- Исправлен баг с не закопанной пластиковой бочкой, когда при открытии взаимодействовать с ней было больше нельзя.",
-"- Добавлена новая система крафта ящиков и предметов. Для крафта возьмите нужный инструмент для ящика (молоток, ножовка по металлу, набор для шитья) и выберите необходимый предмет для размещения. ",
+"- Добавлена новая система крафта ящиков и предметов. Для крафта возьмите нужный инструмент (молоток, ножовка по металлу, набор для шитья) и выберите необходимый предмет для размещения. ",
 "Некоторые объекты можно разместить изначально, для некоторых нужно найти чертеж. Чертеж потратится в момент размещения, а при разборке вернется обратно. Разместить объекты можно только на базе. Предметы для размещения будут пополняться.",
         "- Добавлены ковры для размещения.",
 "- Добавлена поленница для размещения.",
@@ -17,7 +17,7 @@
     ],
     "update_text_en": [
         "- Fixed a bug with an unburied plastic barrel, when it was no longer possible to interact with it when opened.",
-"- Added a new system for crafting boxes and items. To craft, take the necessary tool for the box (hammer, hacksaw, sewing kit) and select the necessary item for placement. ",
+"- Added a new system for crafting boxes and items. To craft, take the necessary tool (hammer, hacksaw, sewing kit) and select the necessary item for placement. ",
 "Some objects can be placed initially, for some you need to find a blueprint. The blueprint will be spent at the time of placement, and will be returned when disassembled. Objects can only be placed at the base. Items for placement will be replenished.",
         "- Added carpets for placement.",
 "- Added woodpile for placement.",
