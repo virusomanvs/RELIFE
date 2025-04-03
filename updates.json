@@ -6,13 +6,13 @@
     "update_text": [
         "- На частоте 89.5 у любой рации, каждые 15-25 минут (время между трансляциями всегда разное, но в этом диапазоне), теперь будут сообщаться координаты ближайшего к вам ивента (лагеря, ящики, скорые и т.д) если вы в районе 1 км (маленькая рация), 4 км (армейская рация).",
         "- При нахождении рядом с большими радиовышками, дистанция работы маленькой рации увеличивается до 4 км, а военной до 6 км.",
-        "- Добавлен перк при прочтении которого вы сможете узнать как долго лежит предмет на земле, если его максимальное время больше суток. Вы увидите время его максимально возможного нахождения, а не то которое осталось.",
+        "- Добавлен перк при изучении которого вы сможете узнать как долго лежит предмет на земле, если его максимальное время больше суток. Вы увидите время его максимально возможного нахождения, а не то которое осталось.",
         "- Исправлен баг с исчезновением ручных раций."
     ],
     "update_text_en": [
         "- On the 89.5 frequency of any radio, every 15-25 minutes (the time between broadcasts is always different, but in this range), the coordinates of the closest event to you (camps, boxes, ambulances, etc.) will now be reported if you are in the area of ​​1 km (small radio), 4 km (army radio).",
         "- When located near large radio towers, the operating range of a small radio increases to 4 km, and a military one to 6 km.",
-        "- Added a perk when reading which will allow you to find out how long an object has been lying on the ground, if its maximum time is more than a day. You will see the time of its maximum possible location, and not the one that remains.",
+        "- Added a perk when learning which will allow you to find out how long an object has been lying on the ground, if its maximum time is more than a day. You will see the time of its maximum possible location, and not the one that remains.",
         "- Fixed a bug with the disappearance of hand-held radios."
     ],
     "hints_en": [
