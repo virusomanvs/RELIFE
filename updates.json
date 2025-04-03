@@ -1,34 +1,20 @@
 {
-    "date": "12 марта 2025 г.",
-    "title": "Обновление [Типа как в SIMS?]",
-    "date_en": "12 march 2025 y.",
+    "date": "3 апреля 2025 г.",
+    "title": "Обновление [На связи]",
+    "date_en": "3 april 2025 y.",
+    "title_en": "Update [Online]",
     "update_text": [
-        "- Исправлен баг с не закопанной пластиковой бочкой, когда при открытии взаимодействовать с ней было больше нельзя.",
-"- Добавлена новая система крафта ящиков и предметов. Для крафта возьмите нужный инструмент (молоток, ножовка по металлу, набор для шитья) и выберите необходимый предмет для размещения. ",
-"Некоторые объекты можно разместить изначально, для некоторых нужно найти чертеж. Чертеж потратится в момент размещения, а при разборке вернется обратно. Разместить объекты можно только на базе. Предметы для размещения будут пополняться.",
-        "- Добавлены ковры для размещения.",
-"- Добавлена поленница для размещения.",
-"- Добавлены новые деревянные ящики для размещения.",
-"- Добавлены новые металлические ящики для размещения.",
-"- Добавлен металлический диван для размещения.",
-"- Добавлен металлическая печь для размещения.",
-"- Изменена вместимость у всех видов шалашей. 50, 100, 150.",
-"- У предметов которыми можно размещать объекты убрано действие [Осмотреть] когда они в руках, чтобы не крутить лишний раз."
+        "- На частоте 89.5 у любой рации, каждые 15-25 минут (время между трансляциями всегда разное, но в этом диапазоне), теперь будут сообщаться координаты ближайшего к вам ивента (лагеря, ящики, скорые и т.д) если вы в районе 1 км (маленькая рация), 4 км (армейская рация).",
+        "- При нахождении рядом с большими радиовышками, дистанция работы маленькой рации увеличивается до 4 км, а военной до 6 км.",
+        "- Добавлен перк при прочтении которого вы сможете узнать как долго лежит предмет на земле, если его максимальное время больше суток. Вы увидите время его максимально возможного нахождения, а не то которое осталось.",
+        "- Исправлен баг с исчезновением ручных раций."
     ],
     "update_text_en": [
-        "- Fixed a bug with an unburied plastic barrel, when it was no longer possible to interact with it when opened.",
-"- Added a new system for crafting boxes and items. To craft, take the necessary tool (hammer, hacksaw, sewing kit) and select the necessary item for placement. ",
-"Some objects can be placed initially, for some you need to find a blueprint. The blueprint will be spent at the time of placement, and will be returned when disassembled. Objects can only be placed at the base. Items for placement will be replenished.",
-        "- Added carpets for placement.",
-"- Added woodpile for placement.",
-"- Added new wooden boxes for placement.",
-"- Added new metal boxes for placement.",
-"- Added metal sofa for placement.",
-"- Added metal stove for placement.",
-"- Changed the capacity of all types of huts. 50, 100, 150.",
-"- Removed the [Inspect] action from items that can be used to place objects when they are in your hands, so as not to twist them unnecessarily."
+        "- On the 89.5 frequency of any radio, every 15-25 minutes (the time between broadcasts is always different, but in this range), the coordinates of the closest event to you (camps, boxes, ambulances, etc.) will now be reported if you are in the area of ​​1 km (small radio), 4 km (army radio).",
+        "- When located near large radio towers, the operating range of a small radio increases to 4 km, and a military one to 6 km.",
+        "- Added a perk when reading which will allow you to find out how long an object has been lying on the ground, if its maximum time is more than a day. You will see the time of its maximum possible location, and not the one that remains.",
+        "- Fixed a bug with the disappearance of hand-held radios."
     ],
-    "title_en": "Update [We are not afraid to blow ourselves up]",
     "hints_en": [
         "Hint|Don't die!",
         "Hint|You don't have to read these hints, they are useless, as is your attempt to survive.",
