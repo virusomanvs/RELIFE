@@ -1,19 +1,19 @@
 {
-    "date": "3 апреля 2025 г.",
-    "title": "Обновление [На связи]",
-    "date_en": "3 april 2025 y.",
-    "title_en": "Update [Online]",
+    "date": "22 апреля 2025 г.",
+    "title": "Обновление [Чё-то там]",
+    "date_en": "22 april 2025 y.",
+    "title_en": "Update [Something there]",
     "update_text": [
-        "- На частоте 89.5 у любой рации, каждые 15-25 минут (время между трансляциями всегда разное, но в этом диапазоне), теперь будут сообщаться координаты ближайшего к вам ивента (лагеря, ящики, скорые и т.д) если вы в районе 1 км (маленькая рация), 4 км (армейская рация).",
-        "- При нахождении рядом с большими радиовышками, дистанция работы маленькой рации увеличивается до 4 км, а военной до 6 км.",
-        "- Добавлен перк при изучении которого вы сможете узнать как долго лежит предмет на земле, если его максимальное время больше суток. Вы увидите время его максимально возможного нахождения, а не то которое осталось.",
-        "- Исправлен баг с исчезновением ручных раций."
+        "- Изменено вращение предмета при его осмотре через СКМ. Добавлена плавность и убрано вращение вокруг диагональных осей.",
+        "- Изменено вращение превью игрока в главном меню и в редакторе персонажа. Вы может и не заметите, но там теперь все плавненько, а не обрублено как сделала БАГемия. Зачем? Потому-что могу.",
+        "- Починил сон на кровати, теперь спит как-будто у костра и не болеет.",
+        "- Увеличена дистанция размещения объектов через круговое меню, от забора, с 15 метров до 40 метров."
     ],
     "update_text_en": [
-        "- On the 89.5 frequency of any radio, every 15-25 minutes (the time between broadcasts is always different, but in this range), the coordinates of the closest event to you (camps, boxes, ambulances, etc.) will now be reported if you are in the area of ​​1 km (small radio), 4 km (army radio).",
-        "- When located near large radio towers, the operating range of a small radio increases to 4 km, and a military one to 6 km.",
-        "- Added a perk when learning which will allow you to find out how long an object has been lying on the ground, if its maximum time is more than a day. You will see the time of its maximum possible location, and not the one that remains.",
-        "- Fixed a bug with the disappearance of hand-held radios."
+        "- Changed the rotation of the object when inspecting it via MMB. Added smoothness and removed rotation around diagonal axes.",
+        "- Changed the rotation of the player preview in the main menu and in the character editor. You may not notice, but now everything is smooth there, and not chopped off like BAGemia did. Why? Because I can.",
+        "- Fixed sleeping on the bed, now he sleeps as if by the fire and does not get sick.",
+        "- Increased the distance of placing objects via the circular menu, from the fence, from 15 meters to 40 meters."
     ],
     "hints_en": [
         "Hint|Don't die!",
