@@ -1,19 +1,16 @@
 {
-    "date": "22 апреля 2025 г.",
-    "title": "Обновление [Чё-то там]",
-    "date_en": "22 april 2025 y.",
-    "title_en": "Update [Something there]",
+    "date": "26 апреля 2025 г.",
+    "title": "Обновление [Гид]",
+    "date_en": "26 april 2025 y.",
+    "title_en": "Update [Guide]",
     "update_text": [
-        "- Изменено вращение предмета при его осмотре через СКМ. Добавлена плавность и убрано вращение вокруг диагональных осей.",
-        "- Изменено вращение превью игрока в главном меню и в редакторе персонажа. Вы может и не заметите, но там теперь все плавненько, а не обрублено как сделала БАГемия. Зачем? Потому-что могу.",
-        "- Починил сон на кровати, теперь спит как-будто у костра и не болеет.",
-        "- Увеличена дистанция размещения объектов через круговое меню, от забора, с 15 метров до 40 метров."
+        "- Исправлен баг с перком [Доктор Стрендж], когда время жизни предмета не отображалось.",
+        "- В лагерях теперь сидят бедолаги с информацией о сервере и механиках, а также которые могут рассказать о различных предметах у вас в руках. Пока там краткая инфа, когда не будет мне лень, буду расширять."
+
     ],
     "update_text_en": [
-        "- Changed the rotation of the object when inspecting it via MMB. Added smoothness and removed rotation around diagonal axes.",
-        "- Changed the rotation of the player preview in the main menu and in the character editor. You may not notice, but now everything is smooth there, and not chopped off like BAGemia did. Why? Because I can.",
-        "- Fixed sleeping on the bed, now he sleeps as if by the fire and does not get sick.",
-        "- Increased the distance of placing objects via the circular menu, from the fence, from 15 meters to 40 meters."
+        "- Fixed a bug with the [Doctor Strange] perk, when the item's lifetime was not displayed.",
+        "- There are now poor guys in the camps with information about the server and mechanics, and who can also tell you about the various items in your hands. For now there is brief information, when I am not too lazy, I will expand it."
     ],
     "hints_en": [
         "Hint|Don't die!",
