@@ -1,15 +1,19 @@
 {
-    "date": "26 апреля 2025 г.",
-    "title": "Обновление [Гид]",
-    "date_en": "26 april 2025 y.",
-    "title_en": "Update [Guide]",
+    "date": "30 апреля 2025 г.",
+    "title": "Обновление [Трах-бабах]",
+    "date_en": "30 april 2025 y.",
+    "title_en": "Update [Bang-bang]",
     "update_text": [
-        "- Исправлен баг с перком [Доктор Стрендж], когда время жизни предмета не отображалось.",
-        "- В лагерях теперь сидят бедолаги с информацией о сервере и механиках, а также которые могут рассказать о различных предметах у вас в руках. Пока там краткая инфа, когда не будет мне лень, буду расширять."
+        "- При употреблении любых таблеток, теперь качается медицина.",
+        "- Взрыв гранаты или взрывчатки, ломает деревья и кусты вокруг, после них остаются дрова или палки.",
+        "- Теперь при убийстве животных или зараженных гранатой, игра понимает что гранату выбросили именно вы, и выдает вам опыт за убийство.",
+        "- Исправлены различные ошибки."
     ],
     "update_text_en": [
-        "- Fixed a bug with the [Doctor Strange] perk, when the item's lifetime was not displayed.",
-        "- There are now poor guys in the camps with information about the server and mechanics, and who can also tell you about the various items in your hands. For now there is brief information, when I am not too lazy, I will expand it."
+        "- When using any pills, medicine is now pumped up.",
+        "- An explosion of a grenade or explosives breaks trees and bushes around, leaving behind firewood or sticks.",
+        "- Now when killing animals or those infected with a grenade, the game understands that it was you who threw the grenade, and gives you experience for the kill.",
+        "- Various bugs have been fixed."
     ],
     "hints_en": [
         "Hint|Don't die!",
