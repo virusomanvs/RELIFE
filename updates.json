@@ -23,7 +23,7 @@
         "- Also, now pants won't get damaged when you just pull yourself up somewhere. That is, jumping over will work when your legs are involved.",
         "- The amount of calories burned during a regular jump has been reduced, while pulling up remains the same.",
         "- Finally got around to it, and I fixed the hiding of buff and debuff icons in the lower right corner when hiding the HUD. Well, at least the global change in HUD visibility from BAGemia, which they added in 1.27, came in handy somewhere.",
-        "- The chance of speakers being repaired by default has been increased from 5% to 20%."
+        "- The chance of wells being repaired by default has been increased from 5% to 20%."
     ],
     "hints_en": [
         "Hint|Don't die!",
