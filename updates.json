@@ -1,19 +1,29 @@
 {
-    "date": "30 апреля 2025 г.",
-    "title": "Обновление [Трах-бабах]",
-    "date_en": "30 april 2025 y.",
-    "title_en": "Update [Bang-bang]",
+    "date": "3 мая 2025 г.",
+    "title": "Обновление [Швея мотористка]",
+    "date_en": "3 may 2025 y.",
+    "title_en": "Update [Seamstress motorist]",
     "update_text": [
-        "- При употреблении любых таблеток, теперь качается медицина.",
-        "- Взрыв гранаты или взрывчатки, ломает деревья и кусты вокруг, после них остаются дрова или палки.",
-        "- Теперь при убийстве животных или зараженных гранатой, игра понимает что гранату выбросили именно вы, и выдает вам опыт за убийство.",
-        "- Исправлены различные ошибки."
+        "- Свершилось, я все же доделал это. К штанам вы теперь можете пришить по два кармана. Карманы бывают трёх размеров 4, 6 и 9 слотов. Чтобы пришить карманы, вы должны изучить соответствующий навык, иметь в инвентаре необходимое кол-во тряпок и набор для шитья или аналоги. ",
+        "Просто наводитесь швейкой на штаны лежащие на земле и выбираете какой карман пришить. Карман можно оторвать в любое время с помощью ножа, но вы получите не все тряпки обратно.",
+        "- Карманы имеют свойство изнашиваться, также как и вещи на которых они пришиты, и из них также выпадают предметы. Чинить отдельно их не нужно. Когда вы ремонтируете вещь на которых они пришиты, они также ремонтируются.",
+        "- Из нарукавной повязки теперь также выпадают предметы в зависимости от ее состояния.",
+        "- Пожарные штаны и кольчужные, теперь как и кожанные, не подвержены прорыву когда вы прыгаете через заборы. (скажем спасибо intR452, я спиздил это у него)",
+        "- Также теперь штаны не будут повреждаться, когда вы просто подтягиваетесь куда-то наверх. То есть будет работать именно перепрыгивание когда задействуются ноги.",
+        "- Снижено количество расходуемых калорий при обычном прыжке, при подтягивании осталось также.",
+        "- Наконец-то дошли руки, и я пофиксил скрытие иконок бафов и дебафов в правом нижнем углу, при скрытии худа. Ну хоть где-то пригодилось глобальное изменение видимости худа от БАГемии, которое они добавили в 1.27.",
+        "- Увеличен шанс на отремонтируемые колонки по умолчанию, с 5% до 20%."
     ],
     "update_text_en": [
-        "- When using any pills, medicine is now pumped up.",
-        "- An explosion of a grenade or explosives breaks trees and bushes around, leaving behind firewood or sticks.",
-        "- Now when killing animals or those infected with a grenade, the game understands that it was you who threw the grenade, and gives you experience for the kill.",
-        "- Various bugs have been fixed."
+        "- It's done, I finally finished it. You can now sew two pockets to your pants. Pockets come in three sizes: 4, 6, and 9 slots. To sew pockets, you must learn the appropriate skill, have the required number of rags and a sewing kit or similar in your inventory. ",
+        "Just point the sewing machine at the pants lying on the ground and choose which pocket to sew. You can tear off the pocket at any time with a knife, but you won't get all the rags back.",
+        "- Pockets tend to wear out, just like the things they're sewn on, and they also drop items. You don't need to repair them separately. When you repair the thing they're sewn on, they're also repaired.",
+        "- Armbands now also drop items depending on their condition.",
+        "- Firefighter pants and chainmail pants, like leather pants, are now immune to breakthroughs when you jump over fences. (Thanks to intR452, I stole it from him)",
+        "- Also, now pants won't get damaged when you just pull yourself up somewhere. That is, jumping over will work when your legs are involved.",
+        "- The amount of calories burned during a regular jump has been reduced, while pulling up remains the same.",
+        "- Finally got around to it, and I fixed the hiding of buff and debuff icons in the lower right corner when hiding the HUD. Well, at least the global change in HUD visibility from BAGemia, which they added in 1.27, came in handy somewhere.",
+        "- The chance of speakers being repaired by default has been increased from 5% to 20%."
     ],
     "hints_en": [
         "Hint|Don't die!",
