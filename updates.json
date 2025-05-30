@@ -1,25 +1,25 @@
 {
-    "date": "13 мая 2025 г.",
-    "title": "Обновление [Ивенты]",
-    "date_en": "13 may 2025 y.",
-    "title_en": "Update [Events]",
+    "date": "30 мая 2025 г.",
+    "title": "Обновление [Очередная хуйня]",
+    "date_en": "30 may 2025 y.",
+    "title_en": "Update [Another piece of crap]",
     "update_text": [
-         "- Возвращены убранные ивенты и переработаны точки спавна на существующих. ",
-        "- Убрано действие добычи камней у ледокола.",
-        "- Увеличен шанс на поиск в фурнитуре.",
-        "- Снижено требуемое кол-во йода для дезинфекции воды.",
-        "- Исправлена отсутствующая модель дробовика ИЖ43.",
-        "- Исправлена работа прикормки.",
-        "- Если вы будете спать в здании, без костра, то шанс заболеть простудой будет меньше, то есть не 100% как раньше. Но я бы все равно спал у костра."
+        "- С кожанных вещей больше не выпадают предметы, не важно какого они состояния (кроме уничтоженного естественно).",
+        "- У пожарных слотов, убраны слоты под карманы. ",
+        "- Увеличено количество слотов у кожанных штанов с 30 до 36, а также немного увеличен им размер в инвентаре. ",
+        "- Исправлен размер в инвентаре у множества шмоток. Я проебался и пропустил букву в конфиге, и размер на шмотки не работал, хотя должен был бы несколько вайпов назад. Поэтому не удивляйтесь новым размерам (речь о внешнем размере, а не о вместимости), да и возможно некоторые снова переделаются.",
+        "- Убраны карманы у коротких джинс.",
+        "- Отображение здоровья у животных или зараженных, теперь может быть массовым, а не только для одного.",
+        "- Исправлен баг когда невозможно было разжечь факел с помощью костра."
     ],
     "update_text_en": [
-       "- Removed events have been returned and spawn points have been reworked on existing ones.",
-        "- The action of mining stones at the icebreaker has been removed.",
-        "- The chance of searching in fittings has been increased.",
-        "- The required amount of iodine for disinfecting water has been reduced.",
-        "- The missing model of the IZH43 shotgun has been fixed.",
-        "- The operation of bait has been fixed.",
-        "- If you sleep in a building, without a fire, the chance of catching a cold will be lower, that is, not 100% as before. But I would still sleep by the fire."
+        "- Leather items no longer drop items, no matter what condition they are in (except for destroyed, of course).",
+        "- Firefighter slots have had their pockets removed. ",
+        "- The number of slots for leather pants has been increased from 30 to 36, and their inventory size has been slightly increased. ",
+        "- The inventory size for many items has been fixed. I screwed up and missed a letter in the config, and the item size didn't work, although it should have several wipes ago. So don't be surprised by the new sizes (we're talking about the external size, not the capacity), and some may be reworked again.",
+        "- Pockets have been removed from short jeans.",
+        "- Health display for animals or infected can now be mass-based, not just for one.",
+        "- Fixed a bug where it was impossible to light a torch using a campfire."
     ],
     "hints_en": [
         "Hint|Don't die!",
