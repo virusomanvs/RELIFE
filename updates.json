@@ -1,25 +1,25 @@
 {
-    "date": "30 мая 2025 г.",
+    "date": "15 июня 2025 г.",
     "title": "Обновление [Очередная хуйня]",
-    "date_en": "30 may 2025 y.",
+    "date_en": "15 june 2025 y.",
     "title_en": "Update [Another piece of crap]",
     "update_text": [
-        "- С кожанных вещей больше не выпадают предметы, не важно какого они состояния (кроме уничтоженного естественно).",
-        "- У пожарных слотов, убраны слоты под карманы. ",
-        "- Увеличено количество слотов у кожанных штанов с 30 до 36, а также немного увеличен им размер в инвентаре. ",
-        "- Исправлен размер в инвентаре у множества шмоток. Я проебался и пропустил букву в конфиге, и размер на шмотки не работал, хотя должен был бы несколько вайпов назад. Поэтому не удивляйтесь новым размерам (речь о внешнем размере, а не о вместимости), да и возможно некоторые снова переделаются.",
-        "- Убраны карманы у коротких джинс.",
-        "- Отображение здоровья у животных или зараженных, теперь может быть массовым, а не только для одного.",
-        "- Исправлен баг когда невозможно было разжечь факел с помощью костра."
+        "- Острые палки теперь необязательно держать в руках во время приготовления на костре. Их можно воткнуть в землю и то, что на них, будет готовиться.",
+        "- Из 250 граммовых консерв после употребления тоже теперь падают пустые банки для кипячения воды.",
+        "- Увеличено время заживления перелома ног примерно в два раза. С шиной заживление идет быстрее.",
+        "- Добавлены аттачменты медицинским вещам.",
+        "- Исправлен баг при дизинфекции предметов через кипячение. ",
+        "- Исправлен баг когда при прокачивании перка [С вертушки] вы могли трясти деревья с предметом в руках.",
+        "- Исправлена невозможность повесить пустую банку из под соды в слот под гранаты."
     ],
     "update_text_en": [
-        "- Leather items no longer drop items, no matter what condition they are in (except for destroyed, of course).",
-        "- Firefighter slots have had their pockets removed. ",
-        "- The number of slots for leather pants has been increased from 30 to 36, and their inventory size has been slightly increased. ",
-        "- The inventory size for many items has been fixed. I screwed up and missed a letter in the config, and the item size didn't work, although it should have several wipes ago. So don't be surprised by the new sizes (we're talking about the external size, not the capacity), and some may be reworked again.",
-        "- Pockets have been removed from short jeans.",
-        "- Health display for animals or infected can now be mass-based, not just for one.",
-        "- Fixed a bug where it was impossible to light a torch using a campfire."
+        "- Sharp sticks no longer need to be held in your hands when cooking on a fire. You can stick them in the ground and whatever is on them will cook.",
+        "- Empty cans for boiling water will now drop from 250 gram cans after consumption.",
+        "- The healing time for leg fractures has been increased by about two times. Healing is faster with a splint.",
+        "- Attachments have been added to medical items.",
+        "- A bug has been fixed when disinfecting items through boiling. ",
+        "- A bug has been fixed where when upgrading the [From a Helicopter] perk you could shake trees with an item in your hands.",
+        "- The impossibility of hanging an empty soda can in the grenade slot has been fixed."
     ],
     "hints_en": [
         "Hint|Don't die!",
