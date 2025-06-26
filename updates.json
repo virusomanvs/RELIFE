@@ -1,35 +1,13 @@
 {
-    "date": "19 июня 2025 г.",
-    "title": "Обновление [Тик-так мазафака]",
-    "date_en": "19 june 2025 y.",
-    "title_en": "Update [Tick ​​tock motherfucker]",
+    "date": "26 июня 2025 г.",
+    "title": "Обновление [Ну ебать]",
+    "date_en": "26 june 2025 y.",
+    "title_en": "Update [Oh fuck]",
     "update_text": [
-        "- Эффект низкого уровня крови на экране, теперь начнет появляться только когда уровень крови будет ниже 50%.",
-        "- Добавлен детектор Г-640. Найти его можно только в сломанном состоянии. Если починить на верстаке с помощью набора для электрика, то в будущем он поможет вам не лишиться ваших ног. Спросите у бедолаги на спавне что это.",
-        "- Исправлен баг с наливанием бензина из бензоколонок через шланг.",
-        "- Радио на спавне можно теперь выключить если оно вам мешает. Оно выключится только у вас, состояние радио на спавне для каждого игрока свое.",
-        "15 июня 2025 г.",
-        "- Острые палки теперь необязательно держать в руках во время приготовления на костре. Их можно воткнуть в землю и то, что на них, будет готовиться.",
-        "- Из 250 граммовых консерв после употребления тоже теперь падают пустые банки для кипячения воды.",
-        "- Увеличено время заживления перелома ног примерно в два раза. С шиной заживление идет быстрее.",
-        "- Добавлены аттачменты медицинским вещам.",
-        "- Исправлен баг при дизинфекции предметов через кипячение. ",
-        "- Исправлен баг когда при прокачивании перка [С вертушки] вы могли трясти деревья с предметом в руках.",
-        "- Исправлена невозможность повесить пустую банку из под соды в слот под гранаты."
+        "Вайп :)"
     ],
     "update_text_en": [
-        "- Low blood level effect on the screen, will now only appear when the blood level is below 50%.",
-        "- Added G-640 detector. It can only be found in a broken state. If you fix it at a workbench using an electrician's kit, it will help you not to lose your legs in the future. Ask the poor guy at spawn what it is.",
-        "- Fixed a bug with pouring gasoline from gas stations through a hose.",
-        "- The radio at spawn can now be turned off if it bothers you. It will only turn off for you, the state of the radio at spawn is different for each player.",
-        "15 june 2025 y.",
-        "- Sharp sticks no longer need to be held in your hands when cooking on a fire. You can stick them in the ground and whatever is on them will cook.",
-        "- Empty cans for boiling water will now drop from 250 gram cans after consumption.",
-        "- The healing time for leg fractures has been increased by about two times. Healing is faster with a splint.",
-        "- Attachments have been added to medical items.",
-        "- A bug has been fixed when disinfecting items through boiling. ",
-        "- A bug has been fixed where when upgrading the [From a Helicopter] perk you could shake trees with an item in your hands.",
-        "- The impossibility of hanging an empty soda can in the grenade slot has been fixed."
+        "Wipe :)"
     ],
     "hints_en": [
         "Hint|Don't die!",
