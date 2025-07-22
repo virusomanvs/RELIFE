@@ -1,13 +1,17 @@
 {
-    "date": "26 июня 2025 г.",
-    "title": "Обновление [Ну ебать]",
-    "date_en": "26 june 2025 y.",
-    "title_en": "Update [Oh fuck]",
+    "date": "22 июля 2025 г.",
+    "title": "Обновление [Ебучие лутбоксы]",
+    "date_en": "22 july 2025 y.",
+    "title_en": "Update [Fucking loot boxes]",
     "update_text": [
-        "Вайп :)"
+        "- При броске кастрюли теперь из нее выливается вода.",
+        "- В некоторых кастрюлях, теперь визуально отображается количество жидкости и её вид.",
+        "- Изменено содержимое схронов. В обычных документах, теперь может выпасть абсолютно разный лут, начиная от таблеток, заканчивая листом металла. В секретных документах помимо текущих вариациях, может выпасть еще другой лут."
     ],
     "update_text_en": [
-        "Wipe :)"
+        "- When throwing a pot, water now pours out of it.",
+        "- In some pots, the amount of liquid and its type are now visually displayed.",
+        "- The contents of caches have been changed. In regular documents, completely different loot can now drop, ranging from tablets to a sheet of metal. In secret documents, in addition to the current variations, other loot can drop.",
     ],
     "hints_en": [
         "Hint|Don't die!",
