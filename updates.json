@@ -1,17 +1,25 @@
 {
-    "date": "22 июля 2025 г.",
-    "title": "Обновление [Ебучие лутбоксы]",
-    "date_en": "22 july 2025 y.",
-    "title_en": "Update [Fucking loot boxes]",
+    "date": "27 июля 2025 г.",
+    "title": "Обновление [Ягоды судьбы]",
+    "date_en": "27 july 2025 y.",
+    "title_en": "Update [Berries of Destiny]",
     "update_text": [
-        "- При броске кастрюли теперь из нее выливается вода.",
-        "- В некоторых кастрюлях, теперь визуально отображается количество жидкости и её вид.",
-        "- Изменено содержимое схронов. В обычных документах, теперь может выпасть абсолютно разный лут, начиная от таблеток, заканчивая листом металла. В секретных документах помимо текущих вариациях, может выпасть еще другой лут."
+        "- Ягоды теперь стакаются и визуально меняются в стаке. В стаке сушить их нельзя, только по одному. Также теперь в некоторых емкостях можно приготовить ягодные компоты, так как ягоды занимают меньше времени.",
+        "- Бафнут крафт гвоздей из проволоки и ножовки. Снижено кол-во отнимаемого здоровья от ножовки, и теперь оно еще зависит от состояния проволоки и полученных гвоздей.",
+        "- Изменен рецепт на компот из ягод. Соответственно увеличено количество калорий.",
+        "- Исправлен крафт самодельного жилета из сковороды и тряпок, который можно было скрафтить с помощью 1 тряпки вместо 6.",
+        "- Исправлена ошибка при приготовлении ягодных компотов.",
+        "- Добавлен новый котелок с крышкой. В крышке можно также будет готовить.",
+        "- Вода из открытых емкостей теперь выливается только когда вы двигаетесь."
     ],
     "update_text_en": [
-        "- When throwing a pot, water now pours out of it.",
-        "- In some pots, the amount of liquid and its type are now visually displayed.",
-        "- The contents of caches have been changed. In regular documents, completely different loot can now drop, ranging from tablets to a sheet of metal. In secret documents, in addition to the current variations, other loot can drop."
+        "- Berries now stack and visually change in a stack. You can't dry them in a stack, only one at a time. Also, you can now make berry compotes in some containers, since berries take less time.",
+        "- The crafting of nails from wire and a hacksaw will be buffed. The amount of health taken away from a hacksaw has been reduced, and now it also depends on the condition of the wire and the nails obtained.",
+        "- The recipe for berry compote has been changed. The number of calories has been increased accordingly.",
+        "- Fixed the crafting of a homemade vest from a frying pan and rags, which could be crafted using 1 rag instead of 6.",
+        "- Fixed a bug when making berry compotes.",
+        "- Added a new pot with a lid. You can also cook in the lid.",
+        "- Water from open containers now only pours out when you move."
     ],
     "hints_en": [
         "Hint|Don't die!",
