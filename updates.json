@@ -4,7 +4,7 @@
     "date_en": "27 july 2025 y.",
     "title_en": "Update [Berries of Destiny]",
     "update_text": [
-        "- Ягоды теперь стакаются и визуально меняются в стаке. В стаке сушить их нельзя, только по одному. Также теперь в некоторых емкостях можно приготовить ягодные компоты, так как ягоды занимают меньше времени.",
+        "- Ягоды теперь стакаются и визуально меняются в стаке. В стаке сушить их нельзя, только по одному. Также теперь в некоторых емкостях можно приготовить ягодные компоты, так как ягоды занимают меньше места.",
         "- Бафнут крафт гвоздей из проволоки и ножовки. Снижено кол-во отнимаемого здоровья от ножовки, и теперь оно еще зависит от состояния проволоки и полученных гвоздей.",
         "- Изменен рецепт на компот из ягод. Соответственно увеличено количество калорий.",
         "- Исправлен крафт самодельного жилета из сковороды и тряпок, который можно было скрафтить с помощью 1 тряпки вместо 6.",
@@ -13,7 +13,7 @@
         "- Вода из открытых емкостей теперь выливается только когда вы двигаетесь."
     ],
     "update_text_en": [
-        "- Berries now stack and visually change in a stack. You can't dry them in a stack, only one at a time. Also, you can now make berry compotes in some containers, since berries take less time.",
+        "- Berries now stack and visually change in a stack. You can't dry them in a stack, only one at a time. Also, you can now make berry compotes in some containers, since berries take less space.",
         "- The crafting of nails from wire and a hacksaw will be buffed. The amount of health taken away from a hacksaw has been reduced, and now it also depends on the condition of the wire and the nails obtained.",
         "- The recipe for berry compote has been changed. The number of calories has been increased accordingly.",
         "- Fixed the crafting of a homemade vest from a frying pan and rags, which could be crafted using 1 rag instead of 6.",
